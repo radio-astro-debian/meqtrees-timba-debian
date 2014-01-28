@@ -12,5 +12,4 @@ Homepage: http://www.astron.nl/meqwiki/MeqTrees
 Package: meqtrees-timba
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: software system for implementing and solving arbitrary Measurement Equations
