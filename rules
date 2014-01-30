@@ -4,5 +4,8 @@
 # Uncomment this to turn on verbose mode.
 export DH_VERBOSE=1
 
+override_dh_auto_configure:
+	dh_auto_configure -- -DPYTHON_PACKAGES_DIR=/usr/lib/python2.7/dist-packages/ 
+
 %:
 	dh $@ --parallel --with-python2
