@@ -9,7 +9,7 @@ Homepage: http://www.astron.nl/meqwiki/MeqTrees
 #Vcs-Git: git://git.debian.org/collab-maint/meqtrees-timba.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/meqtrees-timba.git;a=summary
 
-Package: meqtrees-timba
+Package: python-meqtrees-timba
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: software system for implementing and solving arbitrary Measurement Equations
