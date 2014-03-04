@@ -1,6 +1,8 @@
 files
-meqtrees-timba.debhelper.log
-meqtrees-timba.postinst.debhelper
-meqtrees-timba.prerm.debhelper
-meqtrees-timba.substvars
+*.debhelper.log
+*.postinst.debhelper
+*.prerm.debhelper
+*.substvars
 meqtrees-timba/
+python-meqtrees-timba/
+libmeqtrees-timba0/

@@ -1,3 +1,11 @@
+meqtrees-timba (1.3.1-3precise1) precise; urgency=low
+
+  * new upstream release
+  * add python-qwt5-qt4 python-qt4 dependencies
+  * split package in python/non-python
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Tue, 04 Mar 2014 14:07:24 +0200
+
 meqtrees-timba (1.3.1-2precise1) precise; urgency=low
 
   * Set build type to Release (not debug)
