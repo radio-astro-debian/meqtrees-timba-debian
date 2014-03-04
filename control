@@ -15,8 +15,8 @@ Description: implementing and solving arbitrary Measurement Equations
 
 Package: python-meqtrees-timba
 Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}, libmeqtrees-timba0,
- python-qwt5-qt4, python-qt4
+Depends: ${shlibs:Depends}, ${python:Depends}, ${misc:Depends},
+ libmeqtrees-timba0, python-qwt5-qt4, python-qt4
 Description: implementing and solving arbitrary Measurement Equations
 
 Package: meqtrees-timba
